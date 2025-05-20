@@ -11,6 +11,6 @@ package com.mycompany.robot_modular;
 public class Robot_modular {
 
     public static void main(String[] args) {
-        System.out.println("Hello momo!");
+        System.out.println("Hello mama!");
     }
 }
